@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://discord.gg/NyZUcATqWZ"><img src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
 </p>
-
+ 
 <p align="center"><img src="assets/banner.png" alt="FH6 Universal Radio" /></p>
 
 An open-source radio mod for **Forza Horizon 6**. Adds a new in-game radio station fed from your **local music**, **online radio** stations, **Spotify**, **YouTube Music**, **Jellyfin** server, or **any Windows app** (Deezer, a browser tab...), controlled from a browser dashboard.
